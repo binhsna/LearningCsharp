@@ -1,0 +1,25 @@
+--> Dùng trong Visual Studio Code
+dotnet --version
+dotnet --info
+dotnet new
+-- Tạo 1 app console với net5.0
+dotnet new console --framework net5.0
+dotnet build
+dotnet run
+dotnet publish
+-- Trong thư mục publish --> Chạy lệnh
+.\project_name.exe
+
+-- hoặc
+dotnet .\project_name.dll
+-- Các lệnh thao tác với package
+dotnet add package packageName --version xxx
+dotnet remove package packageName
+dotnet restore
+-- Để 1 dự án tham chiếu đến 1 dự án thư viện khác
+dotnet add tenduan.csproj reference thuvien.csproj
+
+dotnet add D:/Projects/LearningCsharp/Console/UsePackage.csproj reference D:/Projects/LearningCsharp/Console/NumberToString.csproj
+-- Chạy dự án
+dotnet run --project UsePackage\UsePackage.csproj
+--

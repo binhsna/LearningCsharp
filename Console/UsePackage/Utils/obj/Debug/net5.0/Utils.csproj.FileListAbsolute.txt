@@ -1,0 +1,12 @@
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\bin\Debug\net5.0\Utils.deps.json
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\bin\Debug\net5.0\Utils.dll
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\bin\Debug\net5.0\ref\Utils.dll
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\bin\Debug\net5.0\Utils.pdb
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.dll
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\ref\Utils.dll
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.pdb
+D:\Projects\LearningCsharp\Console\UsePackage\Utils\obj\Debug\net5.0\Utils.csproj.AssemblyReference.cache
