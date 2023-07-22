@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\cs_event.exe
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\cs_event.deps.json
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\cs_event.runtimeconfig.json
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\cs_event.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\cs_event.dll
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\ref\cs_event.dll
+D:\Projects\LearningCsharp\Advanced\cs_event\bin\Debug\net5.0\cs_event.pdb
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.dll
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\ref\cs_event.dll
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.pdb
+D:\Projects\LearningCsharp\Advanced\cs_event\obj\Debug\net5.0\cs_event.genruntimeconfig.cache

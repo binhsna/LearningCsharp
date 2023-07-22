@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\cs_delegate.exe
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\cs_delegate.deps.json
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\cs_delegate.runtimeconfig.json
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\cs_delegate.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\cs_delegate.dll
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\ref\cs_delegate.dll
+D:\Projects\LearningCsharp\Advanced\cs_delegate\bin\Debug\net5.0\cs_delegate.pdb
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.dll
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\ref\cs_delegate.dll
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.pdb
+D:\Projects\LearningCsharp\Advanced\cs_delegate\obj\Debug\net5.0\cs_delegate.genruntimeconfig.cache

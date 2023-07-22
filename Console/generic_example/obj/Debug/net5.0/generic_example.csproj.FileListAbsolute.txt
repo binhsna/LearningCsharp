@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\generic_example.exe
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\generic_example.deps.json
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\generic_example.runtimeconfig.json
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\generic_example.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\generic_example.dll
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\ref\generic_example.dll
+D:\Projects\LearningCsharp\Console\generic_example\bin\Debug\net5.0\generic_example.pdb
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.dll
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\ref\generic_example.dll
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.pdb
+D:\Projects\LearningCsharp\Console\generic_example\obj\Debug\net5.0\generic_example.genruntimeconfig.cache

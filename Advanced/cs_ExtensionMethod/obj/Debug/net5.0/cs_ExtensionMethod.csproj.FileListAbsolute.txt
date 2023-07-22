@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\cs_ExtensionMethod.exe
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\cs_ExtensionMethod.deps.json
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\cs_ExtensionMethod.runtimeconfig.json
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\cs_ExtensionMethod.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\cs_ExtensionMethod.dll
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\ref\cs_ExtensionMethod.dll
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\bin\Debug\net5.0\cs_ExtensionMethod.pdb
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.dll
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\ref\cs_ExtensionMethod.dll
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.pdb
+D:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\obj\Debug\net5.0\cs_ExtensionMethod.genruntimeconfig.cache

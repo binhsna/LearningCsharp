@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\Rank.exe
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\Rank.deps.json
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\Rank.runtimeconfig.json
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\Rank.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\Rank.dll
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\ref\Rank.dll
+D:\Projects\LearningCsharp\Console\Array\Rank\bin\Debug\net5.0\Rank.pdb
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.dll
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\ref\Rank.dll
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.pdb
+D:\Projects\LearningCsharp\Console\Array\Rank\obj\Debug\net5.0\Rank.genruntimeconfig.cache

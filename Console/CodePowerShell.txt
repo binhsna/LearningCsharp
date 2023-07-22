@@ -1,3 +1,12 @@
+------------------------------
+// fix xuất ra màn hình bằng tiếng việt
+Console.OutputEncoding = Encoding.Unicode;
+// fix nhập vào bằng tiếng việt
+Console.InputEncoding = Encoding.Unicode;
+// Đặt màu chữ
+Console.ForegroundColor = ConsoleColor.DarkMagenta;   
+//Reset màu
+Console.ResetColor();    
 --> Dùng trong Visual Studio Code
 dotnet --version
 dotnet --info
@@ -23,3 +32,66 @@ dotnet add D:/Projects/LearningCsharp/Console/UsePackage.csproj reference D:/Pro
 -- Chạy dự án
 dotnet run --project UsePackage\UsePackage.csproj
 --
+base
+advanced
+
+Khi biến thuộc các kiểu sau, mặc định nó ứng xử là kiểu giá trị:
+
+- Các kiểu số nguyên như int, byte, long ...
+Các kiểu số thực như float, double, decimal
+Kiểu bool, kiểu char
+Kiểu cấu trúc struct
+Kiểu liệt kê enum
+Kiểu Tuple
+--	
+- Những biển có kiểu sau thì nó là kiểu tham chiếu:
+
+Biến kiểu lớp (class), các lớp thư viện hoặc lớp do bạn định nghĩa
+Biến kiểu delegate
+Biến kiểu interface, các giao diện từ thư viện hoặc tự định nghĩa
+Biến kiểu dynamic
+Biến kiểu object
+Biến kiểu string
+--
+So sánh sự khác nhau giữa class và struct
+
+Struct phù hợp khi muốn gom một lượng nhỏ các biến có kiểu nguyên thủy (int, float ...), thuộc tính lại với nhau. Class thì dùng khi các diễn tả đối tượng chứa các biến, thuộc tính và xử lý dữ liệu phức tạp.
+Struct có thể dùng khai báo biến mà không cần thao tác tạo đối tượng. BIẾN KIỂU STRUCT LÀ THAM TRỊ CÒN BIẾN CLASS LÀ THAM CHIẾU . struct được lưu ở bộ nhớ stack, còn đối tượng được sinh ra bới class được lưu ở bộ nhớ heap - bộ nhớ heap được quản lý, giám sát, thu hồi tự động bởi GC.
+
+Ví dụ nếu là class thì khi 2 biến cùng tham chiếu đến 1 đối tượng:
+sản phẩm 1 = sản phẩm 2;
+sản phẩm 1.ten="alo";
+--> thì sản phẩm 2.ten cùng là "alo"
+
+-- Lớp niêm phong sealed -> Các lớp khác sẽ không kế thừa được A
+sealed class A {
+
+}
+-- Đặt tên cho namespace
+using abc = MyNamespace;
+-- Thêm các thành phần của Class Console vào file code
+using static System.Console;
+-- Chia nhỏ định nghĩa lớp ra nằm trên nhiều file mã nguồn (với từ khóa partial)
+namespace ns1{
+	public partial class product{
+	// abcxyz
+	}
+}
+-- tiếp tục
+namespace ns1{
+	public partial class product{
+	// v.v....
+	}
+}
+-- Lớp con của 1 lớp
+public partial class product{
+	public Manufactory manufactory{set; get}
+
+	public class Manufactory{
+		public string name{set; get;}
+		public string address{set; get;}
+	}
+
+	public string description{set; get;}
+}
+-- Partial Type và Nested Type phân code thành nhiều file và lớp lồng nhau trong C# C Sharp

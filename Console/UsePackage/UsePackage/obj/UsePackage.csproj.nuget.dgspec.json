@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj": {}
+    "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj": {
+    "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj",
+        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj",
         "projectName": "UsePackage",
-        "projectPath": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj",
+        "projectPath": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\UsePackage.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\obj\\",
+        "outputPath": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\UsePackage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj": {
-                "projectPath": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj"
+              "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj": {
+                "projectPath": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj": {
+    "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj",
+        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj",
         "projectName": "BNC.Utils",
-        "projectPath": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj",
+        "projectPath": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\Utils.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\obj\\",
+        "outputPath": "d:\\Projects\\LearningCsharp\\Console\\UsePackage\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\cs_lambda.exe
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\cs_lambda.deps.json
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\cs_lambda.runtimeconfig.json
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\cs_lambda.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\cs_lambda.dll
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\ref\cs_lambda.dll
+D:\Projects\LearningCsharp\Advanced\cs_lambda\bin\Debug\net5.0\cs_lambda.pdb
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.dll
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\ref\cs_lambda.dll
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.pdb
+D:\Projects\LearningCsharp\Advanced\cs_lambda\obj\Debug\net5.0\cs_lambda.genruntimeconfig.cache

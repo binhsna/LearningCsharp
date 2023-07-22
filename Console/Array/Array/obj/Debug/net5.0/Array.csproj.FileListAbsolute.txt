@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\Array.exe
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\Array.deps.json
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\Array.dll
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\ref\Array.dll
+D:\Projects\LearningCsharp\Console\Array\Array\bin\Debug\net5.0\Array.pdb
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.dll
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\ref\Array.dll
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.pdb
+D:\Projects\LearningCsharp\Console\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
