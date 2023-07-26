@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj",
+      "projectUniqueName": "d:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj",
       "projectName": "cs10",
-      "projectPath": "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj",
+      "projectPath": "d:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj",
       "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\LearningCsharp\\Console\\cs10\\obj\\",
+      "outputPath": "d:\\Projects\\LearningCsharp\\Base\\cs10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ListExample.exe
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ListExample.deps.json
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ListExample.runtimeconfig.json
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ListExample.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ListExample.dll
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ref\ListExample.dll
+D:\Projects\LearningCsharp\Advanced\ListExample\bin\Debug\net5.0\ListExample.pdb
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.dll
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ref\ListExample.dll
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.pdb
+D:\Projects\LearningCsharp\Advanced\ListExample\obj\Debug\net5.0\ListExample.genruntimeconfig.cache

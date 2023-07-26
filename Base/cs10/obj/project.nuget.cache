@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y+bWl+DOkJRnfbZdcmnh4eCCCuTU9OFdqVkMjhlakJCjPCYAyYNb3gXJ1AXAWpY/stg3+YNu5oV2vv9Nph/ERg==",
+  "dgSpecHash": "LVcT+PwHKZF/Q/wshu6/eqgZCkkZ8flnXFQtadaJDWJd0Gabbq2an/nFHPgy3l9TcDTgf8jmQOoJ9+rYW1TBVQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj",
+  "projectFilePath": "D:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

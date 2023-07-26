@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj": {}
+    "D:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj": {
+    "D:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj",
         "projectName": "cs10",
-        "projectPath": "D:\\Projects\\LearningCsharp\\Console\\cs10\\cs10.csproj",
+        "projectPath": "D:\\Projects\\LearningCsharp\\Base\\cs10\\cs10.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCsharp\\Console\\cs10\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\Base\\cs10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

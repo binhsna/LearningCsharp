@@ -1,0 +1,16 @@
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\cs_Enum.exe
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\cs_Enum.deps.json
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\cs_Enum.runtimeconfig.json
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\cs_Enum.runtimeconfig.dev.json
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\cs_Enum.dll
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\ref\cs_Enum.dll
+D:\Projects\LearningCsharp\Base\cs_Enum\bin\Debug\net5.0\cs_Enum.pdb
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.csproj.AssemblyReference.cache
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.AssemblyInfoInputs.cache
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.AssemblyInfo.cs
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.csproj.CoreCompileInputs.cache
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.dll
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\ref\cs_Enum.dll
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.pdb
+D:\Projects\LearningCsharp\Base\cs_Enum\obj\Debug\net5.0\cs_Enum.genruntimeconfig.cache
