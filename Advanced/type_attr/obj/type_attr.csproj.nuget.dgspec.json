@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj": {}
+    "d:\\Projects\\LearningCsharp\\Advanced\\type_attr\\type_attr.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj": {
+    "d:\\Projects\\LearningCsharp\\Advanced\\type_attr\\type_attr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj",
-        "projectName": "cs_delegate",
-        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj",
+        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\type_attr\\type_attr.csproj",
+        "projectName": "type_attr",
+        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\type_attr\\type_attr.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\obj\\",
+        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\type_attr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

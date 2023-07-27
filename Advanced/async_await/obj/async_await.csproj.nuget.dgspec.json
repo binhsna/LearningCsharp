@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj": {}
+    "D:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj": {
+    "D:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj",
-        "projectName": "cs_delegate",
-        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\cs_delegate.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj",
+        "projectName": "async_await",
+        "projectPath": "D:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_delegate\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\Advanced\\async_await\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
