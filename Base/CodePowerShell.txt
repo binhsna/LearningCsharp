@@ -15,6 +15,7 @@ dotnet new
 dotnet new console --framework net5.0
 dotnet build
 dotnet run
+dotnet watch run --> Chạy chương trình trong khi chỉnh sửa code ASP.NET
 dotnet publish
 -- Trong thư mục publish --> Chạy lệnh
 .\project_name.exe

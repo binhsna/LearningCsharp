@@ -1,0 +1,15 @@
+﻿@model Product
+<h1>Thông tin sản phẩm</h1>
+@if (Model == null)
+{
+    <div class="alert alert-danger">Không tìm thấy sản phẩm</div>
+}
+else
+{
+    <div class="card">
+        <div class="card-body">
+            <p>Tên sản phẩm: <strong>@Model.Name</strong></p>
+            <p>Giá sản phẩm: <strong>@Model.Price</strong></p>
+        </div>
+    </div>
+}
