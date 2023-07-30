@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj": {}
+    "D:\\Projects\\LearningCsharp\\Advanced\\Parallel\\Parallel.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj": {
+    "D:\\Projects\\LearningCsharp\\Advanced\\Parallel\\Parallel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj",
-        "projectName": "async_await",
-        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\async_await\\async_await.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Advanced\\Parallel\\Parallel.csproj",
+        "projectName": "Parallel",
+        "projectPath": "D:\\Projects\\LearningCsharp\\Advanced\\Parallel\\Parallel.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\async_await\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\Advanced\\Parallel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
