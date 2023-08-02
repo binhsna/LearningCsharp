@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj": {}
+    "D:\\Projects\\LearningCsharp\\Networking\\net1\\net1.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj": {
+    "D:\\Projects\\LearningCsharp\\Networking\\net1\\net1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj",
-        "projectName": "cs_ExtensionMethod",
-        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Networking\\net1\\net1.csproj",
+        "projectName": "net1",
+        "projectPath": "D:\\Projects\\LearningCsharp\\Networking\\net1\\net1.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\Networking\\net1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

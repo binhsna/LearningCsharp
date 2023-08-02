@@ -1,0 +1,3 @@
+-- Chạy trong bash
+curl -i https://xuanthulab.net/contact/
+--> Trả về Response từ server (HTTP Message)

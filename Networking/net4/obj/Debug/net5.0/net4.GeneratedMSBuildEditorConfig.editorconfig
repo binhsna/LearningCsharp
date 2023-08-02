@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = cs_ExtensionMethod
-build_property.ProjectDir = d:\Projects\LearningCsharp\Advanced\cs_ExtensionMethod\
+build_property.RootNamespace = net4
+build_property.ProjectDir = D:\Projects\LearningCsharp\Networking\net4\

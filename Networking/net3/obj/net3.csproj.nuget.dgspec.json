@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj": {}
+    "D:\\Projects\\LearningCsharp\\Networking\\net3\\net3.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj": {
+    "D:\\Projects\\LearningCsharp\\Networking\\net3\\net3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj",
-        "projectName": "cs_ExtensionMethod",
-        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\cs_ExtensionMethod.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Networking\\net3\\net3.csproj",
+        "projectName": "net3",
+        "projectPath": "D:\\Projects\\LearningCsharp\\Networking\\net3\\net3.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\cs_ExtensionMethod\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\Networking\\net3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
