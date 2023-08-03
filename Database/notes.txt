@@ -1,0 +1,2 @@
+// dotnet add package System.Data.SqlClient -> Thư viện hỗ trợ kết nối đến SQL Server
+// dotnet add package MySql.Data -> MySQL
