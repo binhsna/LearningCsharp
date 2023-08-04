@@ -1,2 +1,29 @@
+-- SQL Server
+string sqlconnectStr = "Data Source=localhost,1433;Initial Catalog=xtlab;User ID=sa;Password=123";
+-- MySQL
+string connectionStr="server=localhost;database=xtlab;user id=root;password=MyBibo@bgdwQ;port=3306";
 // dotnet add package System.Data.SqlClient -> Thư viện hỗ trợ kết nối đến SQL Server
 // dotnet add package MySql.Data -> MySQL
+---
+** EF
+dotnet add package System.Data.SqlClient
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.Extensions.DependencyInjection
+dotnet add package Microsoft.Extensions.Logging
+dotnet add package Microsoft.Extensions.Logging.Console
+--
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Threading.Tasks;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj": {}
+    "D:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj": {
+    "D:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj",
         "projectName": "ADO_01_SqlConnection",
-        "projectPath": "d:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj",
+        "projectPath": "D:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\ADO_01_SqlConnection.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\Database\\ADO_01_SqlConnection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -16,4 +16,6 @@ BEGIN
     WHERE Sanpham.SanPhamID = @id
 END
 GO
-EXEC GetProductInfo 0;
+EXEC GetProductInfo 5;
+GO
+SELECT NhanviennID, Ten, Ho FROM Nhanvien
