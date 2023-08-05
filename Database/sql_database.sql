@@ -19,3 +19,8 @@ GO
 EXEC GetProductInfo 5;
 GO
 SELECT NhanviennID, Ten, Ho FROM Nhanvien
+--
+use shopdata;
+select * from Category;
+go
+select * from Product;
