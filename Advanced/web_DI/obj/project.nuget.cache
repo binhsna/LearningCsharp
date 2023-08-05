@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQu/rCV3ZMoHjFoE257+sfzrP5TN3o9ZGukIeXjCUl+9hE2kVbXzFCZ2LlzjbHv2SLFdavp4amHbxcfs6tYAUQ==",
+  "dgSpecHash": "6fDEVQkyNragz83ApxjghF4qSmTP40LOnToIrK3ZemvmYpLwAsEmgSMD1b8Xgn8EQcxUMZQF1U1WRLiqr+pc4A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj",
+  "projectFilePath": "d:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

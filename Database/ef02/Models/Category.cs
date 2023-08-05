@@ -17,6 +17,7 @@ namespace ef02
 
         // Collection Navigation (Điều hướng tập hợp)
         public virtual List<Product> Products { get; set; }
+        public CategoryDetail categoryDetail { get; set; }
     }
 }
 /*

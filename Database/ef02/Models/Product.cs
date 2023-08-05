@@ -3,10 +3,10 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace ef02
 {
-    [Table("Product")]
+    // [Table("Product")]
     public class Product
     {
-        [Key]
+        // [Key]
         public int ProductId { get; set; }
         [Required]
         [StringLength(50)]
@@ -17,14 +17,14 @@ namespace ef02
         public int? CategoryId { get; set; }
         // Reference Navigation
         // Cách tạo ra FOREIGN KEY
-        [ForeignKey("CategoryId")]
-        [Required]
+        // [ForeignKey("CategoryId")]
+        // [Required]
         public virtual Category Category { get; set; } // FK -> PK CategoryId
 
         // Một sản phẩm nếu thuộc 2 Category thì sao?
         public int? CategoryId2 { get; set; }
-        [ForeignKey("CategoryId2")]
-        [InverseProperty("Products")]
+        // [ForeignKey("CategoryId2")]
+        // [InverseProperty("Products")]
         public virtual Category Category2 { get; set; }
         public void PrintInfo() => Console.WriteLine($"{ProductId} - {Name} - {Price} - {CategoryId}");
     }

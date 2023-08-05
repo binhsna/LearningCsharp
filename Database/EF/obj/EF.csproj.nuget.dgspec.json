@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj": {}
+    "d:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj": {
+    "d:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj",
+        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj",
         "projectName": "EF",
-        "projectPath": "D:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj",
+        "projectPath": "d:\\Projects\\LearningCsharp\\Database\\EF\\EF.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCsharp\\Database\\EF\\obj\\",
+        "outputPath": "d:\\Projects\\LearningCsharp\\Database\\EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

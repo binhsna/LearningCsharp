@@ -21,6 +21,19 @@ GO
 SELECT NhanviennID, Ten, Ho FROM Nhanvien
 --
 use shopdata;
+go
 select * from Category;
 go
 select * from Product;
+GO
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+    INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20230805171213_v0', N'5.0.4');
+GO
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20230805171213_v0', N'5.0.4');
+GO

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj": {}
+    "d:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj": {
+    "d:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj",
+        "projectUniqueName": "d:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj",
         "projectName": "web_DI",
-        "projectPath": "D:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj",
+        "projectPath": "d:\\Projects\\LearningCsharp\\Advanced\\web_DI\\web_DI.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCsharp\\Advanced\\web_DI\\obj\\",
+        "outputPath": "d:\\Projects\\LearningCsharp\\Advanced\\web_DI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

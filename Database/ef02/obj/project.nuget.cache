@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ncvdHCnnyhfCsbiU8VLuvF1VvsWhCNM8J9Po6lKI1Pd0c/o9A9NJ8NuuwUGkYqeTxZdp3IO4wrE/HXECC/vQDg==",
+  "dgSpecHash": "LGPAjAbqqCnBuZjjTskgKCbtCQDy0SXJ/V38ouGv98/2V5NtcITONRFZobM/A0oInVXM84kN77kSLd0SXu42Yg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\LearningCsharp\\Database\\ef02\\ef02.csproj",
+  "projectFilePath": "d:\\Projects\\LearningCsharp\\Database\\ef02\\ef02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daica\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Daica\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
