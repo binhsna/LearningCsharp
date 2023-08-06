@@ -1,0 +1,12 @@
+-- Xác thực SSL với https
+dotnet dev-certs https --clean
+dotnet dev-certs https --trust
+--
+npm install bootstrap
+npm install jquery
+npm i popper.js
+--
+npm update
+--
+dotnet add package BuildBundlerMinifier
+--

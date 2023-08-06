@@ -1,0 +1,7 @@
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\hello-asp.exe
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\appsettings.json
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\hello-asp.dll
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\hello-asp.deps.json
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\hello-asp.runtimeconfig.json
+D:\Projects\LearningCsharp\ASP.NET Core\hello-asp\bin\Debug\net5.0\publish\hello-asp.pdb
