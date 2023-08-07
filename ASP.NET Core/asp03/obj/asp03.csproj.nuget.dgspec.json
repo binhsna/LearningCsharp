@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\asp02.csproj": {}
+    "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp03\\asp03.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\asp02.csproj": {
+    "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp03\\asp03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\asp02.csproj",
-        "projectName": "asp02",
-        "projectPath": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\asp02.csproj",
+        "projectUniqueName": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp03\\asp03.csproj",
+        "projectName": "asp03",
+        "projectPath": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp03\\asp03.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\obj\\",
+        "outputPath": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

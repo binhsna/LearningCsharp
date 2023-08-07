@@ -1,0 +1,11 @@
+//Gộp Bootstrap
+// Có thể thiết lập các biến biến như màu $warning ...
+// @import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+$color: rgb(215, 35, 35);
+
+// Thêm code SCSS
+.mainbackground {
+    color: $color;
+    background-color: rgb(45, 221, 80);
+}

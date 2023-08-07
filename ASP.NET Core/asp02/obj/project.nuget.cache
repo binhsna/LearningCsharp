@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSzYUDi5UaLMsnLyRYFI0o9kKlIAdYk2Q0QGTUxd78IDWaUPyM8wQHamsSDaB805P0hkAjJQ0qEIaUFaGY9EMQ==",
+  "dgSpecHash": "BIEcaqUXPGxLcpFsmff43keVlhC5bbgKV5c5NQIH9nr+Q+bYGyCkiqVHzGg3D8n6HsTmm53n8uL2lsIoEci2yg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\asp02.csproj",
+  "projectFilePath": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp02\\asp02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

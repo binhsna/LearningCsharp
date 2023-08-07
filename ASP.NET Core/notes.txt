@@ -9,4 +9,25 @@ npm i popper.js
 npm update
 --
 dotnet add package BuildBundlerMinifier
+-- Webpack
+npm init -y                                         # tạo file package.json cho dự án
+npm i -D webpack webpack-cli                        # cài đặt Webpack
+npm i node-sass postcss-loader postcss-preset-env   # cài đặt các gói để làm việc với SCSS
+npm i sass-loader css-loader cssnano                # cài đặt các gói để làm việc với SCSS, CSS
+npm i mini-css-extract-plugin cross-env file-loader # cài đặt các gói để làm việc với SCSS
+npm install copy-webpack-plugin                     # cài đặt plugin copy file cho Webpack
+npm install npm-watch                               # package giám sát file  thay đổi
+
+
+npm install bootstrap                               # cài đặt thư viện bootstrap
+npm install jquery                                  # cài đặt Jquery
+npm install popper.js                               # thư viện cần cho bootstrap
+
+-- fix nếu lỗi buid
+npm uninstall postcss-loader --save-dev
+npm install postcss-loader@~3.0.0 --save-dev
 --
+npm run watch
+--
+-- Chạy Webpack
+npm run build
