@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGCnitbzTMeUHICaxEYhMZ3lVzqevL3b4RMqswi9g/iUo6Zw6kzBZC9UM8vUECakF3gEZQHi3tSbW3gBIbRL2g==",
+  "dgSpecHash": "kqP0pjaHQwWWgJe7rPSZwPND9zqRN0369yGJesJIR8JizU3YYRxcV4Bw9pqprBjEPLC28fVtEhk1/uEA1LXToA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\hello-asp\\hello-asp.csproj",
+  "projectFilePath": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\hello-asp\\hello-asp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daica\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
   ],
