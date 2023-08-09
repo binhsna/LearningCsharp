@@ -37,3 +37,6 @@ GO
 INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
 VALUES (N'20230805171213_v0', N'5.0.4');
 GO
+USE webdb
+GO
+SELECT * FROM [dbo].Session;

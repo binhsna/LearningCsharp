@@ -31,3 +31,12 @@ npm run watch
 --
 -- Chạy Webpack
 npm run build
+-- session
+dotnet add package Microsoft.AspNetCore.Session
+dotnet add package Microsoft.Extensions.Caching.Memory
+-- Newtonsoft.Json
+dotnet add package Newtonsoft.Json
+-- 
+dotnet new tool-manifest # if you are setting up this repo
+dotnet tool install --local dotnet-sql-cache --version 5.0.5
+-- dotnet add package Microsoft.Extensions.Caching.SqlServer
