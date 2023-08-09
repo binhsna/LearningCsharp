@@ -40,3 +40,7 @@ dotnet add package Newtonsoft.Json
 dotnet new tool-manifest # if you are setting up this repo
 dotnet tool install --local dotnet-sql-cache --version 5.0.5
 -- dotnet add package Microsoft.Extensions.Caching.SqlServer
+
+-- Gửi mail thông qua bên thứ 3
+dotnet add package MailKit
+dotnet add package MimeKit
