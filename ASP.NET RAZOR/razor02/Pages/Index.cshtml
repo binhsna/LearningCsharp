@@ -1,0 +1,78 @@
+﻿@* 
+    - @Biểu thức @(biểu thức): -> HTML (encode)
+    - Dấu "<" -> &lt; ">" -> &gt
+    - Html.Raw(string)
+    - @{
+        - Code C#
+        - Mở thẻ HTML -> Xuất HTML
+        - Phương thức cục bộ
+        - <text>
+        - @:
+    }
+
+    - @if, @for, @foreach, @switch ...
+    - Đưa vào lớp phát sinh những thuộc tính, phương thức
+    --> @functions{
+        Members: Method, Field, Property
+    }
+    - @page "url" -> Xác định đây là trang Razor Page
+    - @model Kiểu_Model
+        Chỉ thị @model để xác định kiểu dữ liệu được truyền đến Razor Page
+        trong thuộc tính Model của lớp Razor sinh ra.
+    - @namespace -> Khai báo ra 1 namespace
+    - @using -> Chỉ thị @using để khai báo sử dụng namespace trong lớp sinh ra bởi Razor
+*@
+
+@page "/trangchu"
+@namespace xyz
+@using razor02.Pages
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var xinchao="<div class='alert alert-danger'>Xin chao cac ban</div>";
+}
+
+<h1 class="display-4 text-danger">Cú pháp Razor - @this.Title</h1>
+<p>@Model.Abc</p>
+<ul>
+    <li>@(5+6)</li>
+    <li>PI = @Math.PI, Sin(PI/4) là @Math.Sin(Math.PI/4)</li>
+    <li>@("<h1>Xin chao cac ban</h1>")</li>
+    <li>@xinchao</li>
+    <li>@Html.Raw(xinchao)</li>
+</ul>
+<hr>
+@{
+    var loichao="Xin chao";
+    var age=20;
+
+    void XinChao(string name){
+        var mgs=loichao+" "+name;
+        <p>@mgs</p>
+    }
+}
+
+@if (age >= 18){
+    <p>Bạn @age tuổi, được truy cập</p>
+}
+else{
+    <p>Bạn @age tuổi, không được truy cập</p>
+}
+
+@functions{
+    string Title{set;get;}="BinhNC";
+}
+
+<p>@loichao</p>
+@{
+    XinChao("BinhNC");
+
+    string[] cacsanpham=new string[]{"Iphone","Nokia 1101","Samsung 342"};
+    foreach(var name in cacsanpham){
+        <text> [@name] </text>
+    }
+<hr>
+     foreach(var name in cacsanpham){
+        @: [@name]
+    }
+}
