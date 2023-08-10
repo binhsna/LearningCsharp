@@ -56,7 +56,7 @@ namespace asp04
 
                 endpoints.MapGet("/ShowOptions", async context =>
                 {
-                    var configuration = context.RequestServices.GetService<IConfiguration>();
+                    // var configuration = context.RequestServices.GetService<IConfiguration>();
 
                     // var testOptions = configuration.GetSection("TestOptions");
 

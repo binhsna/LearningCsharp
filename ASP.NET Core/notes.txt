@@ -1,4 +1,4 @@
--- Xác thực SSL với https
+-- Kích hoạt SSL (truy cập với https) ở môi trường phát triển
 dotnet dev-certs https --clean
 dotnet dev-certs https --trust
 --

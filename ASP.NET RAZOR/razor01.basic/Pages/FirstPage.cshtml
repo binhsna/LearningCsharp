@@ -1,0 +1,61 @@
+@page "/trang-dau-tien/{soLanLap:int?}"
+@model FirstPageModel
+@{
+    Layout = "_MyLayout";
+    ViewData["title"] = "TRANG DAU TIEN";
+}
+<h1 style="color: red;">@Model.title</h1>
+@* @{
+    ViewData["myData"]="BinhNC2021";
+} *@
+<h2>@ViewData["myData"]</h2>
+<p>Học lập trình ASP.NET Core (<strong>@System.DateTime.Now</strong>)</p>
+
+@{
+    var a = 2;
+    int b = 3;
+
+    var soLanLapString = this.Request.RouteValues["soLanLap"]??"0";
+
+    int soLanLap = Int32.Parse(soLanLapString.ToString());
+
+    <p>Căn bậc hai của @a là @Math.Sqrt(a)</p>
+
+}
+
+@* @functions{
+    // Khai báo thuộc tính title
+    string title{set;get;} = "DAY LA TRANG RAZOR CUA BINHBOONG";
+
+    // OnGet, OnGetAbc, OnGetXyz ...
+    // OnPost(), OnPostAbc() ...
+    // Handler
+
+    public void OnGet(){
+        Console.WriteLine("Truy van GET");
+        ViewData["myData"]="BinhNC.NET 2021";
+    }
+    // GET, Url?handler=Xyz
+      public void OnGetXyz(){
+        Console.WriteLine("Truy van GETXyz");
+        ViewData["myData"]="BinhNC.NET 2021 XYZ";
+    }
+    string Welcome(string name){
+        return $"Chao mung {name} den voi website";
+    }
+} *@
+
+<p>Tổng của @a và @b là @(a + b)</p>
+
+<p>Số lần lặp là @soLanLap</p>
+<ol>
+    @for (int i = 0; i <= soLanLap; i++)
+    {
+        // ...
+        <li>Mục thứ @i</li>
+    }
+</ol>
+
+<p>@Model.Welcome("Nguyen Cong Binh")</p>
+
+<a asp-page="SecondPage">Trang thứ 2</a>

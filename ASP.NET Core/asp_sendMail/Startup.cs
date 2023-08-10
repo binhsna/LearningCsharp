@@ -73,10 +73,12 @@ namespace asp_sendMail
                {
                    var sendMailService = context.RequestServices.GetService<SendMailService>();
 
-                   var mailContent = new MailContent();
-                   mailContent.To = "binhsna@gmail.com";
-                   mailContent.Subject = "KIEM TRA THU EMAIL";
-                   mailContent.Body = "<h1>TEST</h1><i>Xin chao binh boong</i>";
+                   var mailContent = new MailContent
+                   {
+                       To = "binhsna@gmail.com",
+                       Subject = "KIEM TRA THU EMAIL",
+                       Body = "<h1>TEST</h1><i>Xin chao binh boong</i>"
+                   };
 
                    var message = await sendMailService.SendMail(mailContent);
 

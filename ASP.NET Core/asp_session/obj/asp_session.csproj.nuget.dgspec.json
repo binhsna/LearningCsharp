@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj": {}
+    "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj": {
+    "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj",
+        "projectUniqueName": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj",
         "projectName": "asp_session",
-        "projectPath": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj",
+        "projectPath": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\asp_session.csproj",
         "packagesPath": "C:\\Users\\Daica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\obj\\",
+        "outputPath": "d:\\Projects\\LearningCsharp\\ASP.NET Core\\asp_session\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
