@@ -1,0 +1,16 @@
+﻿@{
+    Layout = "_Master";
+}
+
+<div class="row">
+    <div class="col-3 bg-dark">
+        MENU TRÁI
+    </div>
+
+    <div class="col-9">
+        @RenderBody()
+    </div>
+</div>
+@section FooterContent{
+    @await RenderSectionAsync("FooterContent", required: false)
+}
