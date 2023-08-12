@@ -1,0 +1,69 @@
+﻿@page
+@using binhLab
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    ViewData["titleMessage"] = "Sản phẩm mới";
+    ViewData["content"] = "Bạn đang xem các sản phẩm mới";
+}
+
+<form method="post">
+    <label for="username">Nhập tên của bạn:</label>
+    <input name="username" type="text">
+    <input type="submit" value="Gửi">
+</form>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* Cách chèn component *@
+@await Component.InvokeAsync("ProductBox",false)
+
+@await Html.PartialAsync("_Message")
+
+@{
+    var product1 = new Product() { Name = "Iphone X", Description = "Điện thoại Iphone của Apple ...", Price = 1000 };
+    var product2 = new Product() { Name = "Samsung", Description = "Điện thoại Iphone của Samsung ...", Price = 500 };
+    var product3 = new Product() { Name = "Nokia", Description = "Điện thoại Iphone của Nokia ...", Price = 900 };
+}
+<div class="row bg-info">
+    <div class="col">
+        @* Cách 1 để chèn partial view *@
+        <partial name="_ProductItem" model="product1" />
+    </div>
+
+    <div class="col">
+        @* Cách 2 để chèn partial view *@
+        @await Html.PartialAsync("_ProductItem",product2)
+    </div>
+
+    <div class="col">
+        @* Cách 3 để chèn partial view *@
+        @{
+            await Html.RenderPartialAsync("_ProductItem", product3);
+        }
+    </div>
+</div>
+
+<div class="row bg-warning">
+    @{
+        var products = new List<Product>(){
+    new Product() { Name = "SP 1", Description = "Mô tả cho SP 1", Price = 123 },
+    new Product() { Name = "SP 2", Description = "Mô tả cho SP 2", Price = 123 },
+    new Product() { Name = "SP 3", Description = "Mô tả cho SP 3", Price = 123 }
+    };
+
+        foreach (var product in products)
+        {
+            <div class="col">
+                <partial name="_ProductItem" model="product" />
+            </div>
+        }
+    }
+</div>
+
+@* Cách chèn component *@
+@await Component.InvokeAsync("ProductBox")
+

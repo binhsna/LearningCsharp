@@ -1,0 +1,9 @@
+@using binhLab
+@model List<Product>
+
+@foreach (var product in Model)
+{
+    <li class="list-group-item">
+        @product.Name <strong>@product.Price</strong>
+    </li>
+}

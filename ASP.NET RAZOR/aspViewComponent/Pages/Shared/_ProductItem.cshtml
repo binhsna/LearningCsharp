@@ -1,0 +1,11 @@
+@using binhLab
+@model Product
+
+<div class="card my-4" style="width: 20rem">
+    <h2 class="card-header text-info">@Model.Name</h2>
+    <div class="card-body">
+        <p class="card-text">@Model.Description</p>
+        <p>Giá: @Model.Price</p>
+        <a href="#" class="btn btn-secondary btn-sm">Đặt hàng</a>
+    </div>
+</div>
