@@ -1,0 +1,39 @@
+﻿@page
+@addTagHelper *, tagHelper
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+}
+@* @removeTagHelper Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper, Microsoft.AspNetCore.Mvc.TagHelpers *@
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<a asp-page="ViewProduct" asp-route-id="3">
+    Xem sản phẩm 3
+</a>
+
+<!a asp-page="ViewProduct" asp-route-id="3">
+    Xem sản phẩm 3
+</!a>
+
+<form>
+    <label asp-for="UserName"></label>
+    <input asp-for="UserName">
+    <hr>
+    @Html.Label("UserName")
+    @Html.TextBox("UserName")
+</form>
+
+@{
+    var productlist = new List<String>{
+"Tên sản phẩm 1",
+"Tên sản phẩm 2",
+"Tên sản phẩm 3"
+};
+}
+
+<mylist list-title="Danh sách sản phẩm" list-items="@productlist"></mylist>
